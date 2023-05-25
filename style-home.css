@@ -1,0 +1,68 @@
+
+/*Selector*/
+/*body{
+    /*propiedad - valor*/
+    
+
+
+.titulo-principal{
+    /*espaciamiento interno de los elementos*/
+    padding-left: 30px;
+}
+/*selector de identificacion o id.*/
+#banner{
+    /*Anchura de la imagen al 100% de la pantalla*/
+    width: 100%;
+}
+
+.principal{
+    padding: 20px;
+    background: #CCCCCC;
+}
+/*selector de clase.*/
+.titulo-centralizado{
+    /*alineamiento de texto*/
+    text-align: center;
+}    
+
+p{
+    text-align: center;
+}
+/*alineamiento (text-align), 
+tamaño de la fuente (font-size), 
+el color del fondo (background) 
+y el color del texto (color).*/
+/*selector de etiquetas*/
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+
+.diferenciales{
+    padding: 30px;
+    background: #FFFFFF;
+}
+
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    /*solo a su espacio - in line se acomoda al texto lod emas queda libre en el esapcio del div*/
+    vertical-align: top;
+    /*alineacion superior*/
+    width: 20%;/*ociupa el espacipo del 20% de la pantalla*/
+    margin-right: 15%;
+
+}/*espaciamiento interno de los elementos*/
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
